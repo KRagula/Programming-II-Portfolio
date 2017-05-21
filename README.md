@@ -1,5 +1,4 @@
 # Programming II Portfolio
-## Kanishka Ragula
 
 ## Projects
 
