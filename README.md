@@ -40,7 +40,7 @@ Download Instructions:
 The empirical formula of a molecule is the relative number of elements in a molecule.  
 This program will take in the values of percents of atoms in an unknown molecule, calculate the amount of each atom in the molecule, and then return the Empirical Formula of the molecule.
 
-Currently, I will be using an enum for the elements created by Felix Divo
+Currently, I will be using an enum for the elements created by @felixdivo
 
 The Program takes in the number of elements the user wants to calculate for (max 5).  
 
