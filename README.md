@@ -5,6 +5,13 @@
 
 ## Projects
 
+<nav>
+    <ul>
+        <li><a href="/">Home</a></li>
+	       <li><a href="/VirusChampion">Virus Champion</a></li>
+    </ul>
+</nav>
+
 ### Virus Champion
 
 
