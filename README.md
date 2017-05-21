@@ -21,8 +21,8 @@ Features:
 <li> Educational Screens on each Infection</li>
 </ul>
 
-![alt text](https://kragula.github.io/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/Cellsgame.png)
-![alt text](https://kragula.github.io/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/Cellsend.png)
+![alt text](https://kragula.github.io/Programming-II-Portfolio/VirusChampion/Screenshots/Cellsgame.png "Gameplay")
+![alt text](https://kragula.github.io/Programming-II-Portfolio/VirusChampion/Screenshots/Cellsend.png "Game Over")
 
 
 Download Instructions:
