@@ -58,8 +58,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KRagula/Programming-II-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 <footer>
     		<ul>
-        		<li><a href="mailto:k.ragula1@gmail.com">email</a></li>
-        		<li><a href="https://github.com/KRagula">github.com/KRagula</a></li>
-            <ul\>
-            <footer\>
+        		<li><a href="mailto:k.ragula1@gmail.com">Contact Me</a></li>
+        		<li><a href="https://github.com/KRagula">My Github Profile</a></li>
             
