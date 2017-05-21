@@ -1,4 +1,4 @@
-# Cells Project - Vertical Scoller #
+# Virus Champion - Vertical Scoller #
 
 ![alt tag](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/TitleScreen.png)
 ![alt tag](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/InstructionScreen.png)
