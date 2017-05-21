@@ -23,3 +23,7 @@ https://github.com/KRagula/Programming-II-Portfolio/blob/master/EmpiricalFormula
 
 Steps to Download
 1. [Download File Here](https://github.com/KRagula/Programming-II-Portfolio/blob/master/EmpiricalFormulaSolver/EmpirFormulaSolver.zip)
+2. Unzip folder
+3. Open index.html and choose option (note: Video of Product too large to zip into GitHub.
+
+Repo [here](https://github.com/KRagula/Programming-II-Portfolio/blob/master/EmpiricalFormulaSolver)
