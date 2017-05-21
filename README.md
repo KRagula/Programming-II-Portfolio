@@ -28,13 +28,10 @@ Features:
 
 Download Instructions:
 
-Go to link [here](https://drive.google.com/open?id=0ByM0es_F6i1FekhHdDZrZEtseEU)
-
-Download File
-
-Unzip Enclosed Folder
-
-Double Click .exe file
+1. Go to link [here](https://drive.google.com/open?id=0ByM0es_F6i1FekhHdDZrZEtseEU)
+2. Download File
+3. Unzip Enclosed Folder
+4. Double Click .exe file
 
 [Source Code](https://github.com/KRagula/Programming-II-Portfolio/tree/master/VirusChampion/src)
 
