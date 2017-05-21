@@ -47,15 +47,15 @@ Currently, I will be using an enum for the elements created by Felix Divo
 
 The Program takes in the number of elements the user wants to calculate for (max 5).  
 
-![alt tag](https://kragula.github.io/Programming-II-Portfolio/EmpiricalFormulaSolver/Screenshots/EmpirFormEntry.png)
+![alt text](https://kragula.github.io/Programming-II-Portfolio/EmpiricalFormulaSolver/Screenshots/EmpirFormEntry.png)
 
 The user enters values for elements and percents and the compound is returned to the user.  
 
-![alt tag](https://kragula.github.io/Programming-II-Portfolio/EmpiricalFormulaSolver/Screenshots/CalculatorScreen.png)
+![alt text](https://kragula.github.io/Programming-II-Portfolio/EmpiricalFormulaSolver/Screenshots/CalculatorScreen.png)
 
 The option to see the steps taken to get to the final result is available after a calculation has been done.
 
-![alt tag](https://kragula.github.io/Programming-II-Portfolio/EmpiricalFormulaSolver/Screenshots/InstructionsCalc.png)
+![alt text](https://kragula.github.io/Programming-II-Portfolio/EmpiricalFormulaSolver/Screenshots/InstructionsCalc.png)
 
 This will be displayed using Swing.  All numbers will be estimates to the best the program can do.
 
