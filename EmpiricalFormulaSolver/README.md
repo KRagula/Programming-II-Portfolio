@@ -19,8 +19,6 @@ The option to see the steps taken to get to the final result is available after 
 
 This will be displayed using Swing.  All numbers will be estimates to the best the program can do.
 
-https://github.com/KRagula/Programming-II-Portfolio/blob/master/EmpiricalFormulaSolver/Screenshots/CalculatorScreen.png
-
 Steps to Download
 1. [Download File Here](https://github.com/KRagula/Programming-II-Portfolio/blob/master/EmpiricalFormulaSolver/EmpirFormulaSolver.zip)
 2. Unzip folder
