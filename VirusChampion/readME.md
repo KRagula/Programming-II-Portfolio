@@ -7,19 +7,19 @@ Simulate a white blood cell eliminating the bacteria in order to prevent them fr
 
 Features:
 <ul>
-<li></li> Vertical Scroller
-<li></li> Progressively Harder Levels
-<li></li> Score Counter
-<li></li> Educational Screens on each Infection
+<li> Vertical Scroller</li>
+<li> Progressively Harder Levels</li>
+<li> Score Counter</li>
+<li> Educational Screens on each Infection</li>
 </ul>
 
 
 Download Instructions:
 <ul>
-<li></li> Go to link here: https://drive.google.com/open?id=0ByM0es_F6i1FekhHdDZrZEtseEU
-<li></li> Download File
-<li></li> Unzip Enclosed Folder
-<li></li> Double Click .exe file
+<li> Go to link here: https://drive.google.com/open?id=0ByM0es_F6i1FekhHdDZrZEtseEU</li>
+<li> Download File</li>
+<li> Unzip Enclosed Folder</li>
+<li> Double Click .exe file</li>
 </ul>
 
 Roles:
