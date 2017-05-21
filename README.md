@@ -27,8 +27,7 @@ Features:
 
 Download Instructions:
 <ul>
-<li> Go to link below: </li>
-Visit https://drive.google.com/open?id=0ByM0es_F6i1FekhHdDZrZEtseEU
+<li> Go to link [Here](https://drive.google.com/open?id=0ByM0es_F6i1FekhHdDZrZEtseEU): </li>
 <li> Download File</li>
 <li> Unzip Enclosed Folder</li>
 <li> Double Click .exe file</li>
