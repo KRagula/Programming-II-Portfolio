@@ -12,6 +12,8 @@ Features:
 <li> Score Counter</li>
 <li> Educational Screens on each Infection</li>
 </ul>
+![alt tag](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/Cellsgame.png)
+![alt tag](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/Cellsend.png)
 
 
 Download Instructions:
