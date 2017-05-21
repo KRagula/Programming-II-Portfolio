@@ -1,8 +1,6 @@
 # Programming II Portfolio
 ## Kanishka Ragula
 
-![alt text](https://kragula.github.io/Programming-II-Portfolio/Pic1.png "Logo Title Text 1")
-
 ## Projects
 
 ### Virus Champion
