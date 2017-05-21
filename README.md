@@ -96,7 +96,7 @@ Steps to run:
 
 Repo [here](https://github.com/KRagula/Programming-II-Portfolio/blob/master/WorldPopulation)
 
-## Flood Map
+### Flood Map
 This class reads terrain values and a water level value and determines which terrain will be above the water or flooded.
 
 A Map is randomly generated with terrain of different altitudes.
@@ -105,7 +105,7 @@ A Map is randomly generated with terrain of different altitudes.
 
 The map is then slowly flooded in increments of 10 until it is full.
 
-![alt text](https://kragula.github.io/Programming-II-Portfolio/FloodMap/Screenshots/FloodMapPartial.png "Display")
+![alt text](https://kragula.github.io/Programming-II-Portfolio/FloodMap/Screenshots/FloodMapPartial.png "Partial")
 
 ![alt text](https://kragula.github.io/Programming-II-Portfolio/FloodMap/Screenshots/FloodMapFull.png "Display")
 
