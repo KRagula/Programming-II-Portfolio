@@ -26,16 +26,11 @@ Features:
 
 
 Download Instructions:
-<ul>
-<li>
-
 Go to link [here](https://drive.google.com/open?id=0ByM0es_F6i1FekhHdDZrZEtseEU)
+Download File
+Unzip Enclosed Folder
+Double Click .exe file
 
-</li>
-<li> Download File [dfawe] </li>
-<li> Unzip Enclosed Folder</li>
-<li> Double Click .exe file</li>
-</ul>
 
 ### Markdown
 
