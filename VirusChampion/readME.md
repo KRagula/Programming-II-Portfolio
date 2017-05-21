@@ -1,34 +1,34 @@
 # Cells Project - Vertical Scoller #
 
-![alt tag](https://github.com/SkylineHigh/CSAdvanced/blob/master/CellsProject/Graphics/TitleScreen.png)
-![alt tag](https://github.com/SkylineHigh/CSAdvanced/blob/master/CellsProject/Graphics/InstructionScreen.png)
+![alt tag](https://github.com/KRagula/Programming-II-Portfolio/VirusChampion/TitleScreen.png)
+![alt tag](https://github.com/KRagula/Programming-II-Portfolio/VirusChampion/InstructionScreen.png)
 
 Simulate a white blood cell eliminating the bacteria in order to prevent them from splitting in two and harming the host.  WASD for movement and control.  Mouse to fire.  Mitosis launches a smaller white blood cell at the bacteria, killing on impact.
 
 Features:
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li></li> Vertical Scroller
+<li></li> Progressively Harder Levels
+<li></li> Score Counter
+<li></li> Educational Screens on each Infection
 </ul>
 
 
 Download Instructions:
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li></li> Go to link here: https://drive.google.com/open?id=0ByM0es_F6i1FekhHdDZrZEtseEU
+<li></li> Download File
+<li></li> Unzip Enclosed Folder
+<li></li> Double Click .exe file
 </ul>
 
 Roles:
 <ul>
-<li>Kanishka - Coding (see chart below for order)</li>
+<li>Kanishka - Lead Coder (see chart below for order)</li>
 <li>Colin - Coding (see chart below for order)</li>
-<li>Gabe - Legendary Deadweight, interactions between white blood cell and background</li>
+<li>Gabe - Documentation</li>
 <li>Sam - Projectiles (smaller white blood cells)</li>
-<li>Zach - Level Design / Rendering Background</li>
+<li>Zach - Graphics</li>
 </ul>
 
 
