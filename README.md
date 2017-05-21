@@ -1,5 +1,8 @@
 # Programming II Portfolio
 
+* TOC
+{:toc}
+
 ## Projects
 
 ### Virus Champion
