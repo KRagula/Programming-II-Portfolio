@@ -8,8 +8,8 @@
 ### Virus Champion
 
 
-![alt tag](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/TitleScreen.png)
-![alt tag](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/InstructionScreen.png)
+![alt text](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/TitleScreen.png)
+![alt text](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/InstructionScreen.png)
 
 Simulate a white blood cell eliminating the bacteria in order to prevent them from splitting in two and harming the host.  WASD for movement and control.  Mouse to fire.  Mitosis launches a smaller white blood cell at the bacteria, killing on impact.
 
@@ -21,8 +21,8 @@ Features:
 <li> Educational Screens on each Infection</li>
 </ul>
 
-![alt tag](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/Cellsgame.png)
-![alt tag](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/Cellsend.png)
+![alt text](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/Cellsgame.png)
+![alt text](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/Cellsend.png)
 
 
 Download Instructions:
