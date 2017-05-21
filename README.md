@@ -5,13 +5,6 @@
 
 ## Projects
 
-<nav>
-    <ul>
-        <li><a href="/">Home</a></li>
-	       <li><a href="/VirusChampion">Virus Champion</a></li>
-    </ul>
-</nav>
-
 ### Virus Champion
 
 
@@ -34,7 +27,8 @@ Features:
 
 Download Instructions:
 <ul>
-<li> Go to link here: https://drive.google.com/open?id=0ByM0es_F6i1FekhHdDZrZEtseEU</li>
+<li> Go to link below: </li>
+Visit https://drive.google.com/open?id=0ByM0es_F6i1FekhHdDZrZEtseEU
 <li> Download File</li>
 <li> Unzip Enclosed Folder</li>
 <li> Double Click .exe file</li>
