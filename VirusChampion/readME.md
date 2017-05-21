@@ -1,7 +1,7 @@
 # Cells Project - Vertical Scoller #
 
-![alt tag](https://github.com/KRagula/Programming-II-Portfolio/VirusChampion/Screenshots/TitleScreen.png)
-![alt tag](https://github.com/KRagula/Programming-II-Portfolio/VirusChampion/InstructionScreen.png)
+![alt tag](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/TitleScreen.png)
+![alt tag](https://github.com/KRagula/Programming-II-Portfolio/blob/master/VirusChampion/Screenshots/InstructionScreen.png)
 
 Simulate a white blood cell eliminating the bacteria in order to prevent them from splitting in two and harming the host.  WASD for movement and control.  Mouse to fire.  Mitosis launches a smaller white blood cell at the bacteria, killing on impact.
 
